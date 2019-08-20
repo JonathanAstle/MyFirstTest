@@ -1,6 +1,5 @@
 package com.qa;
 
-//change
 public class App {
 
     public int play(int a,int b) {
