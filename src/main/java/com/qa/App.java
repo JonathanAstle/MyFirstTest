@@ -2,7 +2,6 @@ package com.qa;
 
 public class App {
 
-    //bingbong
     public int play(int a,int b) {
         if (a>=b && a<=21) {
             return a;
